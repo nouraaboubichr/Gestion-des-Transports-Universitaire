@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package ma.projet.entities;
+package beans;
 
 /**
  *
@@ -62,4 +62,3 @@ public class Etudiant {
         return "Etudiant{id=" + id + ", nom='" + nom + "', prenom='" + prenom + "', email='" + email + "'}";
     }
 }
-
